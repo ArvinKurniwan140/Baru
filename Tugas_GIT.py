@@ -93,4 +93,4 @@ for i,j in data_panen.items():
     else:
         print(f"Nama Lokasi {nama_lokasi} Baik Baik Saja")
 
-#Perubahan baru
+#Perubahan baru ke 2
